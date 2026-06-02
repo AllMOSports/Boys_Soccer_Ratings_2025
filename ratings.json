@@ -1,7 +1,18 @@
 {
   "last_updated": "June 02, 2026",
-  "league_average": -0.4,
+  "league_average": -0.36,
   "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Rockhurst",
+      "classification": 4,
+      "district": 6,
+      "ovr_rating": 8.31,
+      "off_rating": 4.3008,
+      "off_rank": 1,
+      "def_rating": 4.0093,
+      "def_rank": 1
+    },
     {
       "ovr_rank": 2,
       "school": "SLUH",
