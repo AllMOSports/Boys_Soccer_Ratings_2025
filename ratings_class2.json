@@ -1,7 +1,17 @@
 {
   "last_updated": "June 02, 2026",
-  "league_average": -1.75,
+  "league_average": -1.61,
   "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Springfield Catholic",
+      "district": 5,
+      "ovr_rating": 5.95,
+      "off_rating": 3.4879,
+      "off_rank": 1,
+      "def_rating": 2.4613,
+      "def_rank": 1
+    },
     {
       "ovr_rank": 2,
       "school": "Affton",
