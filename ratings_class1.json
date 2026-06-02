@@ -1,7 +1,17 @@
 {
   "last_updated": "June 02, 2026",
-  "league_average": -4.71,
+  "league_average": -4.54,
   "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "St. Mary's South Side",
+      "district": 1,
+      "ovr_rating": 2.31,
+      "off_rating": 1.6307,
+      "off_rank": 1,
+      "def_rating": 0.6792,
+      "def_rank": 1
+    },
     {
       "ovr_rank": 2,
       "school": "Veritas Christian Academy",
