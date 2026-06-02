@@ -1,7 +1,17 @@
 {
   "last_updated": "June 02, 2026",
-  "league_average": 0.12,
+  "league_average": 0.19,
   "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Chaminade College Prep",
+      "district": 3,
+      "ovr_rating": 5.18,
+      "off_rating": 2.0775,
+      "off_rank": 7,
+      "def_rating": 3.099,
+      "def_rank": 1
+    },
     {
       "ovr_rank": 2,
       "school": "Van Horn",
